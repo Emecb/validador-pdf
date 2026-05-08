@@ -1,4 +1,5 @@
 streamlit
-pdfplumber==0.11.0
+pdfplumber
 pandas
-``
+Pillow
+cryptography
