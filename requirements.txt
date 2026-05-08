@@ -1,4 +1,4 @@
 streamlit
-pdfplumber
+pdfplumber==0.11.0
 pandas
 ``
