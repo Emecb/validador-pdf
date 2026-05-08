@@ -30,7 +30,7 @@ st.markdown(
         border:1px solid #ddd;
         margin-bottom:15px;
     ">
-        CON TODO MI AMOR PARA TI MI JESSI
+        CON TODO MI AMOR PARA TI MI
     </div>
     """,
     unsafe_allow_html=True
